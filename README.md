@@ -1,12 +1,12 @@
-<h1 align="center">
+<h1 align="left">
   🌟 Welcome to My Portfolio Repository 🌟
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=F75C7E&width=450&lines=Hi+I'm+Niraj;Computer+Science+Student;Frontend+Developer;AI+Enthusiast" alt="Typing SVG" />
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=F75C7E&width=450&lines=Hi+I'm+Niraj+Kumar+Sahani;Computer+Science+Student;Frontend+Developer;AI+Enthusiast" alt="Typing SVG" />
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/niraj715">
     <img src="https://img.shields.io/github/followers/niraj715?label=Follow&style=social" alt="GitHub Followers">
   </a>
@@ -40,18 +40,18 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=niraj715&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
 ---
 
 ## ✉️ Connect with me
 
-- 📧 Email: yourmail@gmail.com  
-- 💼 [LinkedIn](https://linkedin.com/in/yourlinkedin)
+- 📧 Email: nirajisgreathero@gmail.com  
+- 💼 [LinkedIn](https://linkedin.com/in/nirajkumarsahani)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=niraj715&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
